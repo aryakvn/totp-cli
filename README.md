@@ -17,7 +17,7 @@ Download the latest release from the [Releases](https://github.com/yourusername/
 
 ### Build from Source
 ```bash
-git clone https://github.com/yourusername/totp-manager.git
+git clone https://github.com/aryakvn/totp-cli
 cd totp-manager
 go build -o totp main.go
 ```
