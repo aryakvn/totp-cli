@@ -13,7 +13,7 @@ A secure command-line TOTP (Time-based One-Time Password) manager written in Go.
 
 ### Download Pre-built Binaries
 
-Download the latest release from the [Releases](https://github.com/yourusername/totp-manager/releases) page.
+Download the latest release from the [Releases](https://github.com/aryakvn/totp-cli/releases) page.
 
 ### Build from Source
 ```bash
