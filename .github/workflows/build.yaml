@@ -1,5 +1,8 @@
 name: Build TOTP Manager
 
+permissions:
+  contents: write
+
 on:
   push:
     branches: [ main, master ]
