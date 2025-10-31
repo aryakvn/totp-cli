@@ -1,0 +1,29 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+totp
+totp-*
+
+# Build output
+dist/
+
+# Go test files
+*.test
+*.out
+
+# Go workspace file
+go.work
+
+# Encrypted storage (contains sensitive data)
+totp_store.enc
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
